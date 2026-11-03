@@ -1,0 +1,16 @@
+{
+  "brandMappings" : {
+
+  },
+  "sources" : [
+    {
+      "adapter" : "svg-logos",
+      "id" : "svg-logos",
+      "license" : "CC0-1.0",
+      "licensePath" : "LICENSE.txt",
+      "priority" : 100,
+      "repositoryURL" : "https://github.com/gilbarbara/logos.git",
+      "resourceModule" : "SVGLogosResources"
+    }
+  ]
+}
