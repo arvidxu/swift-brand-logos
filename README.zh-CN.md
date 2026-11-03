@@ -178,7 +178,7 @@ let licenseURL = catalog.licenseURL(for: "svg-logos")
 
 | 集合 | 来源 ID | 许可证 |
 | --- | --- | --- |
-| [SVG Logos](https://github.com/gilbarbara/logos) | `svg-logos` | [CC0 1.0](https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/LICENSE.txt) |
+| [SVG Logos](https://github.com/gilbarbara/logos) | `svg-logos` | [CC0 1.0](https://github.com/gilbarbara/logos/blob/22f03ffc4a652309d1fea4ade70f46e9e1d6602c/LICENSE.txt) |
 
 Logo、许可证和来源记录按来源集中保存。
 

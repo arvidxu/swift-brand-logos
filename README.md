@@ -178,7 +178,7 @@ Each source records its repository URL, commit SHA, and license. `licenseURL(for
 
 | Collection | Source ID | License |
 | --- | --- | --- |
-| [SVG Logos](https://github.com/gilbarbara/logos) | `svg-logos` | [CC0 1.0](https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/LICENSE.txt) |
+| [SVG Logos](https://github.com/gilbarbara/logos) | `svg-logos` | [CC0 1.0](https://github.com/gilbarbara/logos/blob/22f03ffc4a652309d1fea4ade70f46e9e1d6602c/LICENSE.txt) |
 
 Logos, licenses, and provenance records are grouped by source.
 
